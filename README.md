@@ -1,2 +1,3 @@
 # AIML-intern-projects
-Repository where branch is a project. Branches are not meant to be merged.
+
+Refer Repository https://github.com/ShauryaI/AIML-intern-project-2-human-emotion-detection-from-voice.git for Project "Human Emotion Detection From Voice"
